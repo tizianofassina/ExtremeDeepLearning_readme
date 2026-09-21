@@ -81,7 +81,9 @@ tail behaviour and dependence give an exact ground truth for evaluation.
 ## Status
 
 This is an ongoing research project in an advanced stage: the benchmark is essentially complete and
-the paper is in preparation. The full code, processed datasets and preprocessing pipeline are being
+the paper is in preparation. 
+
+The full code, processed datasets and preprocessing pipeline are being
 held back until submission, and will be released at that point.
 
 ---
