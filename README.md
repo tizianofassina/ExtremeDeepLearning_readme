@@ -59,7 +59,7 @@ The paper and its repository closes this gap with a reproducible benchmark built
 > 📄 **Paper:** *A Heavy-tailed and Precipitation Benchmark for Generative Models* - Work in progress.
 
 <p align="center">
-  <img src="gen_images/hero.png" alt="Sample rainfall fields from the COMEPHORE and Synthetic benchmark datasets" width="820">
+  <img src="hero.png" alt="Sample rainfall fields from the COMEPHORE and Synthetic benchmark datasets" width="820">
   <br>
   <sub><i>Real hourly rainfall fields from the COMEPHORE Massif-Central crop (256&times;256, 1&nbsp;km) and the Synthetic Dataset. Shared colour scale in mm.</i></sub>
 </p>
