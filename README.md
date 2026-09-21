@@ -56,7 +56,7 @@ The paper and its repository closes this gap with a reproducible benchmark built
 - **extreme-value metrics** that score not just overall fidelity but tail behaviour, the geometry of
   extremes, and asymptotic (co-exceedance) dependence — each read against a reference-vs-reference *noise floor*.
 
-> 📄 **Paper:** *A Heavy-tailed and Precipitation Benchmark for Generative Models* — under review at **ICLR 2027**.
+> 📄 **Paper:** *A Heavy-tailed and Precipitation Benchmark for Generative Models* - Work in progress.
 
 <p align="center">
   <img src="gen_images/hero.png" alt="Sample rainfall fields from the COMEPHORE and Synthetic benchmark datasets" width="820">
