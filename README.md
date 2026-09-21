@@ -41,7 +41,7 @@ across model families:
   discriminate tail behaviour in high dimension is a core part of the contribution.
 
 <p align="center">
-  <img src="hero.png" alt="Sample rainfall fields from the COMEPHORE and synthetic benchmark datasets" width="600">
+  <img src="hero.png" alt="Sample rainfall fields from the COMEPHORE and synthetic benchmark datasets" width="700">
   <br>
   <sub><i>Real hourly rainfall fields from the COMEPHORE Massif-Central crop (256&times;256, 1&nbsp;km)
   and the synthetic dataset. Shared colour scale in mm.</i></sub>
