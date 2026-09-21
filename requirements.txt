@@ -1,0 +1,13 @@
+# RainField — Python dependencies (inferred from the codebase).
+#
+# DRAFT — please sanity-check the versions against your environment before committing.
+# On Jean Zay / SLURM, PyTorch comes from the cluster module
+# (`module load pytorch-gpu/py3/2.8.0`); there you only need the lighter extras below.
+
+torch>=2.4          # models, sampling, GPU data processing
+lightning>=2.2      # training / DDP orchestration (import lightning as L)
+numpy>=1.24         # tensors, memmaps, splits
+scipy>=1.11         # optimize / special / stats (synthetic-model fit, metrics)
+pyyaml>=6.0         # config loading
+matplotlib>=3.7     # figures, sample visualisations
+tensorboard>=2.14   # TensorBoardLogger backend
