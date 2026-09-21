@@ -87,7 +87,7 @@ a branch and a config — never touching the control flow. The sections below ex
 
 This scripts are necessary build and preprocess the Comephore and Synthetic dataset to benchmark the models.
 
-The first two are necessary to create the synthetic model, the third one just orchestrate the separation of train/val/test data for the Real (Comephore) and the Synthetic dataset.
+The first two are necessary to create the synthetic model (standard resolution 256x256), the third one just orchestrate the separation of train/val/test data for the Real (Comephore) and the Synthetic dataset.
 
 | File | What it does |
 | --- | --- |
